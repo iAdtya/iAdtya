@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **iAdtya/iAdtya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Ramanujan](https://github.com/user-attachments/assets/c41cacc8-ef6f-417a-8eae-4631ff012878)
