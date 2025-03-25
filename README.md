@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![output](https://github.com/user-attachments/assets/7643b9cb-5f99-485e-a360-bf4eb9474c8b)
+
+👋 Hi, I’m Aditya, An AI-Engineer at Urbanmatch
+I am very interested in Machine Learning, neural networks and building artificial intelligent systems
+📫 How to reach me = adityakhedekar98906@gmail.com
+
+# ![output](https://github.com/user-attachments/assets/7643b9cb-5f99-485e-a360-bf4eb9474c8b)
