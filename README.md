@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m Aditya, An AI-Engineer at Urbanmatch
-I am very interested in Machine Learning, neural networks and building artificial intelligent systems
+I am very interested in Deep-RL, LLM, MLLM, Robotics foundation models!
+
+Personality Traits
+- I have high agency, require no hand-holding, and can get things done independently.
+- I truly believe in E/Acc and In/Acc
+
 📫 How to reach me = adityakhedekar98906@gmail.com
 
