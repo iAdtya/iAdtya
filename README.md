@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Aditya, An AI-Engineer at ``
+👋 Hi, I’m Aditya, an AI-Engineer at `Urbanmatch`
 I am very interested in Deep-RL, LLM, MLLM, Robotics foundation models!
 
 Personality Traits
